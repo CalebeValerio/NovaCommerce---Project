@@ -1,0 +1,30 @@
+Business problem - NovaCommerce is an e-commerce company experiencing challenges in understanding its overall business performance. 
+                   Management lacks clear visibility into sales trends, customer behavior, product performance, and delivery efficiency.
+
+Project Objective - Analyze historical business data to identify performance trends, evaluate key business metrics,
+                    understand customer purchasing behavior, and identify opportunities for business improvement.
+
+Stakeholders - Stakeholder	What they need
+               CEO Overall business performance
+               Sales Manager	Revenue and product performance
+               Marketing Manager	Customer behavior and retention
+               Operations Manager	Delivery efficiency
+               Finance Manager	Payments and transaction values
+
+Key Business Questions -
+               1. How is the company's revenue evolving over time?
+               2. Which products and categories generate the most revenue?
+               3. Which customer segments generate the most value?
+               4. What percentage of customers make repeat purchases?
+               5. Which regions generate the highest sales?
+               6. How efficient is the company's delivery operation?
+               7. Are delivery delays associated with lower customer satisfaction?
+               8. Which payment methods are most frequently used?
+
+
+Scope of Analysis - Sales Performance: revenue, orders, average order value and growth.
+                    Customer Analytics: purchasing behavior, repeat customers and customer value.
+                    Product Performance: product categories, sales volume and revenue.
+                    Operational Performance: shipping times, delays and customer reviews.
+
+
