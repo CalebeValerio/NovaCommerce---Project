@@ -4,12 +4,12 @@ Business problem - NovaCommerce is an e-commerce company experiencing challenges
 Project Objective - Analyze historical business data to identify performance trends, evaluate key business metrics,
                     understand customer purchasing behavior, and identify opportunities for business improvement.
 
-Stakeholders - Stakeholder	What they need
-               CEO Overall business performance
-               Sales Manager	Revenue and product performance
-               Marketing Manager	Customer behavior and retention
-               Operations Manager	Delivery efficiency
-               Finance Manager	Payments and transaction values
+Stakeholders - Stakeholder and What they need
+               CEO Overall: business performance
+               Sales Manager: Revenue and product performance
+               Marketing Manager: Customer behavior and retention
+               Operations Manager: Delivery efficiency
+               Finance Manager: Payments and transaction values
 
 Key Business Questions -
                1. How is the company's revenue evolving over time?
