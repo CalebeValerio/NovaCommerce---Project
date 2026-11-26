@@ -1,3 +1,10 @@
+<img width="2169" height="725" alt="Logótipo NovaCommerce com Saco Orbitante" src="https://github.com/user-attachments/assets/cec5fbdf-826b-44e5-b07d-57cc16dbc2f9" />
+
+
+
+
+
+
 # STEP 09 — Power BI Dashboard Development
 
 ## 1. Objective
@@ -198,8 +205,20 @@ This step connects the data preparation and analytical work from previous stages
 
 
 
+<img width="1088" height="485" alt="StarSChema" src="https://github.com/user-attachments/assets/9a8e2b43-aa4b-4a93-a6ad-47a9cf31201b" />
 
-<img width="1078" height="600" alt="Capture" src="https://github.com/user-attachments/assets/70f7d0c2-69db-43a4-ba8a-d6931a5f77b7" />
 
 
-<img width="1076" height="601" alt="Capture11" src="https://github.com/user-attachments/assets/8143c921-bfa6-465d-bf2e-667d805cf76d" />
+<img width="1065" height="597" alt="Capture" src="https://github.com/user-attachments/assets/e72c4acb-4158-4c17-88c7-897b680330d0" />
+
+
+
+<img width="1058" height="599" alt="Capture11" src="https://github.com/user-attachments/assets/b7e76fe3-95ca-4f26-88da-ba57c29abd9a" />
+
+
+
+<img width="1059" height="594" alt="Tablenovacommerce" src="https://github.com/user-attachments/assets/8a789780-53cb-42a8-aaf9-89968da3afa7" />
+
+
+
+
