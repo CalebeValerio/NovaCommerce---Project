@@ -1,3 +1,12 @@
+<img width="2169" height="725" alt="Logótipo NovaCommerce com Saco Orbitante" src="https://github.com/user-attachments/assets/cec5fbdf-826b-44e5-b07d-57cc16dbc2f9" />
+
+
+
+
+
+
+
+
 Business problem - NovaCommerce is an e-commerce company experiencing challenges in understanding its overall business performance. 
                    Management lacks clear visibility into sales trends, customer behavior, product performance, and delivery efficiency.
 
