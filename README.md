@@ -109,7 +109,8 @@ The final report was organized into two pages, providing complementary perspecti
 | Top 10 Products | Identify the highest-value products. |
 
 <p align="center">
-  <img src="assets/screenshots/01-sales-overview.png" alt="NovaCommerce Sales Overview Dashboard" width="100%" />
+  <img width="1065" height="597" alt="Capture" src="https://github.com/user-attachments/assets/abb6bf09-47ef-466c-bc92-2e5331fca586" />
+
 </p>
 
 <p align="center">
@@ -148,7 +149,8 @@ Customers were classified according to their historical number of orders:
 | Repeat Customer | Customers with more than one order. |
 
 <p align="center">
-  <img src="assets/screenshots/02-customer-insights.png" alt="NovaCommerce Customer Insights Dashboard" width="100%" />
+ <img width="1058" height="599" alt="Capture11" src="https://github.com/user-attachments/assets/462d0363-0e43-4c11-8d1e-b22a26356ca7" />
+
 </p>
 
 <p align="center">
@@ -199,11 +201,12 @@ After data preparation and analytical validation, a dimensional model was design
 The final model contains one fact table and four dimension tables.
 
 <p align="center">
-  <img src="assets/screenshots/03-star-schema.png" alt="NovaCommerce Star Schema in Power BI" width="100%" />
+ <img width="1088" height="485" alt="StarSChema" src="https://github.com/user-attachments/assets/2dff14c4-8e34-4cfd-ace4-98abd9d86547" />
+
 </p>
 
-<p align="center">
-  <em>Figure 3 — Power BI Data Model</em>
+
+
 </p>
 
 ### Data Model Structure
@@ -259,6 +262,8 @@ erDiagram
 ```
 
 ### Fact Table
+
+<p align="center"><img width="1059" height="594" alt="Tablenovacommerce" src="https://github.com/user-attachments/assets/ac1d11b1-ba92-4d42-879f-8595ebd42686" />
 
 **`fact_sales`**
 
