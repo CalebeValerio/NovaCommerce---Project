@@ -1,0 +1,66 @@
+<img width="768" height="1376" alt="Gemini_Generated_Image_auy36uauy36uauy3" src="https://github.com/user-attachments/assets/4c06493b-b8cb-4e28-880b-60970512507a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1088" height="485" alt="StarSChema" src="https://github.com/user-attachments/assets/5e4bbb71-924d-4ba7-ac13-4116b13028c1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1065" height="597" alt="Capture" src="https://github.com/user-attachments/assets/7292acdf-0085-49fa-b2c2-8c64715c59b8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1058" height="599" alt="Capture11" src="https://github.com/user-attachments/assets/bd7be1ad-da89-4b34-8ace-398100c72a24" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1059" height="594" alt="Tablenovacommerce" src="https://github.com/user-attachments/assets/335dead0-e56a-43c5-b043-b6ab431ae715" />
